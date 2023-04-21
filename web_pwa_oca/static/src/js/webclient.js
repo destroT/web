@@ -2,6 +2,8 @@
 /* Copyright 2022 Tecnativa - Sergio Teruel
  * License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). */
 
+
+
 odoo.define("web_pwa_oca.pwa_launch", function (require) {
     "use strict";
     var core = require("web.core");
